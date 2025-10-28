@@ -1,0 +1,7 @@
+*
+!.gitignore
+!LICENSE
+!*/
+!*.jsonld.json
+!*.md
+photo-album-template/
