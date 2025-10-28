@@ -21,7 +21,7 @@
   "schema:creator": "Smythe, Alice Ring",
   "schema:dateCreated": {
     "@type": "schema:DateRange",
-    "schema:startDate": "1925",
+    "schema:startDate": "1927",
     "schema:endDate": "1930"
   },
   "schema:identifier": [
