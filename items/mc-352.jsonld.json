@@ -20,9 +20,10 @@
     }
   ],
   "schema:creator": "Smythe, Alice Ring",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1920"
+  "schema:dateCreated": {
+    "@type": "schema:DateRange",
+    "schema:startDate": "1925",
+    "schema:endDate": "1930"
   },
   "schema:identifier": [
     "ark:/87293/d35717w7q"
